@@ -2,7 +2,7 @@
 
 ## How to use
 
-git clone https://github.com/raflidev/meowanime.git <br>
-cd meowanime <br>
+git clone https://github.com/raflidev/meownime.git <br>
+cd meownime <br>
 chmod +x meow.php <br>
 php meow.php 
