@@ -1,7 +1,8 @@
-# meowanime
-How to use
+# Meowanime
 
-git clone https://github.com/raflidev/meowanime.git
-cd meowanime
-chmod +x meow.php
-php meow.php
+## How to use
+
+git clone https://github.com/raflidev/meowanime.git <br>
+cd meowanime <br>
+chmod +x meow.php <br>
+php meow.php 
